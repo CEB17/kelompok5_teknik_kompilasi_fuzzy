@@ -1,0 +1,58 @@
+<style>
+
+.h2{
+	/*background-color: blue;*/
+	padding: 40px;
+	text-align: center;
+	background: #E987C8;
+	color: white;
+	font-size: 30px;
+}
+
+.tul {
+	/*color:#1BB6AB;*/
+	color:black;
+	font-size: 30px;
+}
+.body{
+	background-color: pink;
+	height: 100vh;
+	margin: 0%;
+}
+
+.button{
+	background-color: blue;
+	padding: 20px 40px;
+	margin: 40px;
+	display: inline-block;
+	font-size: 20px;
+	position: center;
+	border-radius: 12px;
+}
+
+.tombs{
+		background-color: #FFA07A;
+		padding: 20px 40px;
+		display: inline-block;
+		font-size: 20px;
+		margin: 0px 45%;
+		position: center;
+		cursor: pointer;
+		border-radius: 12px;
+		border-color: #FFA07A;
+	}
+
+.ket{
+			text-align: center;
+		  	color : pink;
+		  	background-color: blue;
+		  	padding: 35px 35px;
+		  	/*height: 70px;
+  			width: 125px;*/
+		  	border-radius: 12px;
+		  	display: inline-block;
+		  	margin: 0% 44%;
+	}
+
+
+</style>
